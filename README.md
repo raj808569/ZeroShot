@@ -1,3 +1,3 @@
 # ZeroShot
 zero shot super resolution using pytorch
-STREAM TT
+STREAM TT 500m
